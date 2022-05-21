@@ -20,4 +20,4 @@ this repo was made as an assignment on version control course
 
 ## image
 
-![](./simpsons.png "San Juan Mountains")
+![](./simpsons.png "The simpsons")
